@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @misha99fr
+- 👋 Hi, I’m cackemc
 - 👀 I’m interested in Microsoft Windows Android Subsystem
 - 🌱 I’m currently learning C# and VB
-- 💞️ I’m looking to collaborate on LOL
+- 💞️ I’m looking for Windows VPS
 - 📫 How to reach me ...
 
 <!---
