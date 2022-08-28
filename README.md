@@ -8,3 +8,4 @@
 - 🌱 Сейчас Изучаю C#, VB, Python
 - 💞️ А так же я люблю Clickteam fusion 2.5
 my website/мой вебсайт: http://cackemc.ga/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misha99fr)](https://github.com/anuraghazra/github-readme-stats)
