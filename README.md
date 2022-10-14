@@ -13,8 +13,8 @@ my website/мой вебсайт: http://cackemc.ga/
 ![image](https://user-images.githubusercontent.com/83592338/194636624-0194a8f1-6ff3-4662-8b58-2566e532c91b.png)
 ![image](https://user-images.githubusercontent.com/83592338/194636748-70033ada-7e4d-4076-8f3a-e1fe62964f1d.png)
 ![image](https://user-images.githubusercontent.com/83592338/194636781-9b0c9bcd-52ae-4acb-be18-202755860795.png)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misha99fr)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=misha99fr&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 
 
 
