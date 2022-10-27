@@ -20,6 +20,6 @@ my website/мой вебсайт: http://cackemc.ga/
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+колбасная+колбаска;или+же+саскемс)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=еще+я+мишка+фреде;Кот+с+носком+наcackemc#9738cackemc#9738cackemc#9738cackemc#9738cackemc#9738cackemc#9738cackemc#9738cackemc#9738)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=еще+я+мишка+фреде;Кот+с+носком+на+голове)](https://git.io/typing-svg)
 
 
