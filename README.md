@@ -20,6 +20,6 @@ my website/мой вебсайт: http://cackemc.ga/
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+саскемс)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=я+скоро+буду+делать+стфрд+а+пока+времени+не+хватает)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=я+скоро+буду+делать+Говносборку-Реактось+а+пока+времени+не+хватает)](https://git.io/typing-svg)
 
 
