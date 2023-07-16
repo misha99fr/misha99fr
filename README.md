@@ -7,7 +7,7 @@
 - 👀 Я заинтересован в Microsoft WSA, WSL и  Виртуальных Машинах таких как vmware, virtualbox, и т.д
 - 🌱 Сейчас Изучаю C#, VB, Python
 - 💞️ А так же я люблю Clickteam fusion 2.5
-my website/мой вебсайт: http://cackemc.ga/
+my website/мой вебсайт: неть
 
 Статистика и мои языки программирования/операционная система:
 
@@ -19,7 +19,5 @@ my website/мой вебсайт: http://cackemc.ga/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=я+скоро+буду+делать+Реактось+а+пока+времени+не+хватает)](https://git.io/typing-svg)
 
 
