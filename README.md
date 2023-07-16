@@ -1,13 +1,16 @@
-- 👋 Hello, I’m cackemc aka Michael Amudeshnikov
-- 👀 I’m interested in Microsoft WSA,WSL And Virtual Machines like VMWARE,Virtualbox, etc
+- 👋 Hello, I’m cackemc aka Michael Amudeshnikov aka Greenfred
+- 👀 I’m interested in Microsoft WSA,WSL And Virtual Machines like VMWARE,Virtualbox, programming using c#, vb, python, lua и т.д
 - 🌱 I’m currently learning C# and VB, python
-- 💞️ i love Clickteam fusion 2.5
+- 💞️ i love Clickteam fusion 2.5 as Engine, and Gamemaker studio
+- website: no
 
-- 👋 Привет, я cackemc(Michael Amudeshnikov)
-- 👀 Я заинтересован в Microsoft WSA, WSL и  Виртуальных Машинах таких как vmware, virtualbox, и т.д
-- 🌱 Сейчас Изучаю C#, VB, Python
-- 💞️ А так же я люблю Clickteam fusion 2.5
+- 👋 Привет, я cackemc(Michael Amudeshnikov) aka Greenfred
+- 👀 Я заинтересован в Microsoft WSA, WSL и  Виртуальных Машинах таких как vmware, virtualbox, написании кода под с использованием языков c#, vb, python, lua и т.д
+- 🌱 Сейчас Изучаю C#, VB, Python, также пробую Lua( синтаксис Roblox и OpenComputers)
+- 💞️ А так же я люблю Clickteam fusion 2.5 и Gamemaker studio
 my website/мой вебсайт: неть
+
+Не люблю лезть в политику
 
 Статистика и мои языки программирования/операционная система:
 
@@ -19,5 +22,9 @@ my website/мой вебсайт: неть
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc)](https://git.io/typing-svg)
+
+Список ебланов:
+шучу, его не будет(Наверное)
+
 
 
