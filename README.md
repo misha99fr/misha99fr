@@ -25,6 +25,6 @@ my website/мой вебсайт: неть
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc)](https://git.io/typing-svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=misha99fr&repo=Wintkinter)](https://github.com/misha99fr/Wintkinter)
+[![Readme Card](github-readme-stats-sigma-five.vercel.app/api/pin/?username=misha99fr&repo=Wintkinter)](https://github.com/misha99fr/Wintkinter)
 
 
