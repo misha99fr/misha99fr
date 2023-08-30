@@ -23,6 +23,7 @@ my website/мой вебсайт: неть
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc)](https://git.io/typing-svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/misha99fr/Wintkinter)
 Список ебланов:
 шучу, его не будет(Наверное)
 
