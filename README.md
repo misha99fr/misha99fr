@@ -20,7 +20,6 @@ my website/мой вебсайт: неть
 ![image](https://user-images.githubusercontent.com/83592338/194636781-9b0c9bcd-52ae-4acb-be18-202755860795.png)
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=misha99fr&repo=Wintkinter)](https://github.com/misha99fr/Wintkinter)
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=misha99fr&count_private=true&hide_title=true&theme=github_dark&locale=ru&&hide_border=true)<br>
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
