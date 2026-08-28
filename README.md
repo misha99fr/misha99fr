@@ -1,16 +1,16 @@
-- 👋 Hello, I’m cackemc aka Michael Amudeshnikov aka Greenfred
-- 👀 I’m interested in Microsoft WSA,WSL And Virtual Machines like VMWARE,Virtualbox, programming using c#, vb, python, lua и т.д
-- 🌱 I’m currently learning C# and VB, python
+- 👋 Hello, I’m cackemc(Michael Eplovsky) aka Greenfred/redmi9alover/cackemc
+- 👀 I’m interested in Microsoft WSA,WSL And Virtual Machines like VMware Workstation/Fusion, Oracle Virtualbox, Programming using C#, Visual Basic, Python, Lua(OpenComputers,Roblox) and others and i also like Old Phones like Xiaomi Mi3, Samsung Galaxy S2
+- 🌱 I’m currently learning C# and Visual Basic, Python
 - 💞️ i love Clickteam fusion 2.5 as Engine, and Gamemaker studio
-- website: no
+- My website: no
 
-- 👋 Привет, я cackemc(Michael Amudeshnikov) aka Greenfred
-- 👀 Я заинтересован в Microsoft WSA, WSL и  Виртуальных Машинах таких как vmware, virtualbox, написании кода под с использованием языков c#, vb, python, lua и т.д
+- 👋 Привет, я cackemc(Michael Eplovsky) aka Greenfred/redmi9alover/cackemc
+- 👀 Я заинтересован в Microsoft WSA, WSL и  Виртуальных Машинах таких как VMware Workstation/Fusion, Oracle Virtualbox, написании кода под с использованием языков C#, Visual Basic, Python, Lua(OpenComputers, Roblox) и т.д. Еще люблю старые мобилы, по типу Xiaomi Mi3, Samsung Galaxy S2
 - 🌱 Сейчас Изучаю C#, VB, Python, также пробую Lua( синтаксис Roblox и OpenComputers)
 - 💞️ А так же я люблю Clickteam fusion 2.5 и Gamemaker studio
-my website/мой вебсайт: неть
+- Мой вебсайт: нету
 
-Не люблю лезть в политику
+Не люблю лезть в политику.
 
 Статистика и мои языки программирования/операционная система:
 
