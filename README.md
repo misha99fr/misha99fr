@@ -23,6 +23,6 @@ my website/мой вебсайт: неть
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=default_repocard&hide_border=false&layout=compact)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc+/redmi9alover+/cackemcthecat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc+или+redmi9alover)](https://git.io/typing-svg)
 
 
