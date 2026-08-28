@@ -21,7 +21,7 @@ my website/мой вебсайт: неть
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=misha99fr&repo=Wintkinter)](https://github.com/misha99fr/Wintkinter)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=misha99fr&hide_title=true&theme=default_repocard&hide_border=false&layout=compact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Меня+зовут+Михаил;или+же+cackemc+/redmi9alover+/cackemcthecat)](https://git.io/typing-svg)
 
